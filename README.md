@@ -6,9 +6,9 @@ This repository contains the complete implementation and analysis for the AI in 
 ## Contributors
 | Name       | Role                | Contact Information | Responsibilities |
 |------------|---------------------|---------------------|------------------|
-| **Michael** | Software Developer | [@michael-wambua](slymike63@gmail.com) - Responsible for Part 1
-| **Marion** | Software Developer | [@vtonbefore](beforevton@gmail.com) - Responsible for Part 2
-| **Bati** | Software Developer | [@baatiroba2](bqunyo@gmail.com) - Responsible for Part 3
+| **Michael** | Software Developer | [@michael-wambua](slymike63@gmail.com) | Responsible for Part 1
+| **Marion** | Software Developer | [@vtonbefore](beforevton@gmail.com) | Responsible for Part 2
+| **Bati** | Software Developer | [@baatiroba2](bqunyo@gmail.com) | Responsible for Part 3
 
 ## Assignment Structure
 
