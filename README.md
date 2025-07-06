@@ -1,4 +1,5 @@
 
+
 **AI Future Directions Assignment – Pioneering Tomorrow's AI Innovations**
 # AI in Emerging Technologies Assignment
 
@@ -223,3 +224,4 @@ Both projects are designed to be useful in areas with limited internet and hardw
 * The agriculture task highlighted the power of AI when combined with simple sensors
 
 ---
+
