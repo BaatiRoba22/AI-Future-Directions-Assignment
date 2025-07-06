@@ -1,5 +1,9 @@
-## AI future Directions assignment - Pioneering tomorrow's AI innovation
-# AI in Emerging Technologies Assignmment
+
+
+**AI Future Directions Assignment – Pioneering Tomorrow's AI Innovations**
+# AI in Emerging Technologies Assignment
+
+## Overview
 This repository contains the complete implementation and analysis for the AI in Emerging Technologies assignment, focusing on Edge AI, Quantum AI, Human-AI collaboration, and ethical considerations in AI deployment.
 
 ## Contributors
@@ -89,8 +93,7 @@ This project is for academic purposes only. All code is provided under MIT Licen
 - Academic sources cited in references.md
 - Open-source community for IoT libraries
 - Ethics in AI research community
-
-  **Overview**
+**Overview**
 This project explores future applications of Artificial Intelligence (AI) through two main tasks:
 
 * Task 1: Edge AI for Smart Waste Classification
